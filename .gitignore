@@ -26,3 +26,7 @@ world/
 packmenu/
 local/
 journeymap/
+command_history.txt
+MouseTweaks.cfg
+doc_data.json
+.curseclient
