@@ -1,0 +1,189 @@
+{
+	id: "5AF0FD7302DEC2B1"
+	loot_size: 1
+	order_index: 19
+	rewards: [
+		{
+			count: 5
+			id: "3A0A77C8BD0D6196"
+			item: {
+				count: 1
+				id: "mysticalagriculture:inferium_essence"
+			}
+			random_bonus: 10
+			weight: 10.0f
+		}
+		{
+			id: "13C71BF4E7C4FEB3"
+			item: {
+				count: 1
+				id: "mysticalagriculture:inferium_block"
+			}
+			random_bonus: 1
+			weight: 5.0f
+		}
+		{
+			id: "720C6F4EC45BCF23"
+			item: {
+				count: 1
+				id: "mysticalagriculture:inferium_seeds"
+			}
+			random_bonus: 1
+			weight: 5.0f
+		}
+		{
+			id: "2B6A9EF45A4AEEF5"
+			item: {
+				count: 1
+				id: "mysticalagriculture:inferium_growth_accelerator"
+			}
+			random_bonus: 2
+			weight: 3.0f
+		}
+		{
+			id: "5CF96CB1F5692732"
+			item: {
+				count: 1
+				id: "mysticalagriculture:inferium_gemstone"
+			}
+			weight: 3.0f
+		}
+		{
+			id: "1FC48640CCB88FCA"
+			item: {
+				count: 1
+				id: "mysticalagriculture:inferium_ingot"
+			}
+			random_bonus: 2
+			weight: 5.0f
+		}
+		{
+			id: "572E1BDBB07CB2D1"
+			item: {
+				count: 1
+				id: "mysticalagradditions:inferium_coal"
+			}
+			random_bonus: 3
+			weight: 5.0f
+		}
+		{
+			id: "22AA48164217ACD9"
+			item: {
+				count: 1
+				id: "mysticalagradditions:inferium_apple"
+			}
+			random_bonus: 2
+			weight: 5.0f
+		}
+		{
+			id: "2FF2883C80ACCDE2"
+			item: {
+				count: 1
+				id: "mysticalagriculture:inferium_farmland"
+			}
+			random_bonus: 2
+			weight: 7.0f
+		}
+		{
+			id: "2B75833A6E6652A2"
+			item: {
+				count: 1
+				id: "mysticalagriculture:prosperity_seed_base"
+			}
+			random_bonus: 2
+			weight: 5.0f
+		}
+		{
+			count: 4
+			id: "3045EDE528418F02"
+			item: {
+				count: 1
+				id: "mysticalagriculture:prosperity_shard"
+			}
+			random_bonus: 8
+			weight: 10.0f
+		}
+		{
+			id: "5E41603DB675F5CB"
+			item: {
+				count: 1
+				id: "mysticalagriculture:prosperity_block"
+			}
+			random_bonus: 1
+			weight: 5.0f
+		}
+		{
+			id: "3418C249EE314433"
+			item: {
+				count: 1
+				id: "mysticalagriculture:infusion_crystal"
+			}
+			weight: 3.0f
+		}
+		{
+			id: "6FDEB2C5BFAE8137"
+			item: {
+				count: 1
+				id: "mysticalagriculture:air_seeds"
+			}
+			weight: 3.0f
+		}
+		{
+			id: "36DAD0AC705A5097"
+			item: {
+				count: 1
+				id: "mysticalagriculture:water_seeds"
+			}
+			weight: 3.0f
+		}
+		{
+			id: "41BC4981707995EB"
+			item: {
+				count: 1
+				id: "mysticalagriculture:fire_seeds"
+			}
+			weight: 3.0f
+		}
+		{
+			id: "69F31E60F5D9AAE5"
+			item: {
+				count: 1
+				id: "mysticalagriculture:earth_seeds"
+			}
+			weight: 3.0f
+		}
+		{
+			id: "1540A2E20497B4BF"
+			item: {
+				count: 1
+				id: "mysticalagriculture:stone_seeds"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "72B4BE13E1782C9F"
+			item: {
+				count: 1
+				id: "mysticalagriculture:wood_seeds"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "19B61566AA4625CC"
+			item: {
+				count: 1
+				id: "mysticalagriculture:deepslate_seeds"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "3D913561ACB9C0B8"
+			item: {
+				count: 1
+				id: "mysticalagriculture:dirt_seeds"
+			}
+			weight: 2.0f
+		}
+	]
+	use_title: true
+}

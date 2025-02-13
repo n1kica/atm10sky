@@ -1,0 +1,65 @@
+{
+	id: "047C4C58EC06DBF3"
+	loot_size: 1
+	order_index: 12
+	rewards: [
+		{
+			id: "07048BEA682A24D9"
+			item: {
+				count: 1
+				id: "powah:capacitor_basic_large"
+			}
+			random_bonus: 2
+			weight: 10.0f
+		}
+		{
+			id: "3EE3D887A86BA4B3"
+			item: {
+				count: 1
+				id: "powah:capacitor_hardened"
+			}
+			random_bonus: 1
+			weight: 10.0f
+		}
+		{
+			id: "5E2CD8AD8398C6D1"
+			item: {
+				count: 1
+				id: "powah:dielectric_casing"
+			}
+			random_bonus: 1
+			weight: 10.0f
+		}
+		{
+			id: "5DE0F58DD964672A"
+			item: {
+				count: 1
+				id: "powah:steel_energized"
+			}
+			random_bonus: 2
+			weight: 25.0f
+		}
+		{ id: "77FA0FD3ACBB5BC5", item: { count: 1, id: "powah:energy_cell_hardened" } }
+		{
+			count: 2
+			id: "47BBBCC63CDB9124"
+			item: {
+				count: 1
+				id: "powah:energy_cable_hardened"
+			}
+			random_bonus: 2
+			weight: 10.0f
+		}
+		{
+			id: "019A8F042AC53E00"
+			item: {
+				count: 1
+				id: "powah:energizing_rod_hardened"
+			}
+			weight: 5.0f
+		}
+		{ id: "619429BDBEBBA24E", item: { count: 1, id: "powah:solar_panel_hardened" } }
+		{ id: "562877AA24FB48D9", item: { count: 1, id: "powah:energized_steel_block" } }
+	]
+	use_title: true
+}

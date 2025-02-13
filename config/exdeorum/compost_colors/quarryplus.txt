@@ -1,0 +1,11 @@
+// Compost colors for quarryplus. You may add your own colors, change existing ones, or remove colors that aren't needed.
+chunk_marker, #feb528
+exp_module, #a7fed3
+filter_module, #f293d3
+flexible_marker, #8cfb52
+marker, #ffb52c
+pump_module, #fff4a1
+remove_bedrock_module, #b4ab72
+repeat_tick_module, #6cedff
+status_checker, #f1f1da
+y_setter, #6198b1

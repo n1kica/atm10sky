@@ -1,0 +1,107 @@
+{
+	id: "11204745E52B4C0C"
+	loot_size: 1
+	order_index: 35
+	rewards: [
+		{
+			count: 8
+			id: "14F29D5C59BC9A2A"
+			item: {
+				count: 1
+				id: "minecraft:oak_log"
+			}
+		}
+		{
+			count: 8
+			id: "1E36C8FA6555F17A"
+			item: {
+				count: 1
+				id: "minecraft:spruce_log"
+			}
+		}
+		{
+			count: 8
+			id: "4BAFB00AEBD2D669"
+			item: {
+				count: 1
+				id: "minecraft:birch_log"
+			}
+		}
+		{
+			count: 8
+			id: "4CE037BE1DD2E7DB"
+			item: {
+				count: 1
+				id: "minecraft:jungle_log"
+			}
+		}
+		{
+			count: 8
+			id: "09C530F3A3C41656"
+			item: {
+				count: 1
+				id: "minecraft:acacia_log"
+			}
+		}
+		{
+			count: 8
+			id: "72D880E1DF97041F"
+			item: {
+				count: 1
+				id: "minecraft:dark_oak_log"
+			}
+		}
+		{
+			count: 8
+			id: "4F065620BB0382B9"
+			item: {
+				count: 1
+				id: "minecraft:mangrove_log"
+			}
+		}
+		{
+			count: 8
+			id: "05F9D7F2780BEB84"
+			item: {
+				count: 1
+				id: "minecraft:cherry_log"
+			}
+		}
+		{
+			count: 8
+			id: "7F0EDCA3C61C009D"
+			item: {
+				count: 1
+				id: "minecraft:bamboo_block"
+			}
+		}
+		{
+			count: 8
+			id: "5261CA4904B1B92C"
+			item: {
+				count: 1
+				id: "minecraft:crimson_stem"
+			}
+		}
+		{
+			count: 8
+			id: "556F25770B0FFE0B"
+			item: {
+				count: 1
+				id: "minecraft:warped_stem"
+			}
+		}
+		{ id: "272D00B0B96CB7AB", item: { count: 1, id: "minecraft:oak_sapling" } }
+		{ id: "11EE4AA112331FEC", item: { count: 1, id: "minecraft:spruce_sapling" } }
+		{ id: "37FA744B1F7A1E94", item: { count: 1, id: "minecraft:birch_sapling" } }
+		{ id: "62A9A65AE1D82A90", item: { count: 1, id: "minecraft:jungle_sapling" } }
+		{ id: "24DD59A59088EEED", item: { count: 1, id: "minecraft:acacia_sapling" } }
+		{ id: "7D4AB94B5F4D1BC2", item: { count: 1, id: "minecraft:dark_oak_sapling" } }
+		{ id: "6132E69DB656E06A", item: { count: 1, id: "minecraft:cherry_sapling" } }
+		{ id: "2E49360189FE005F", item: { count: 1, id: "minecraft:mangrove_propagule" } }
+		{ id: "69A268C0F86AEEDA", item: { count: 1, id: "minecraft:bamboo" } }
+		{ id: "3D6C4A51B92A0689", item: { count: 1, id: "minecraft:crimson_fungus" } }
+		{ id: "06590339C636E7E2", item: { count: 1, id: "minecraft:warped_fungus" } }
+	]
+	use_title: true
+}

@@ -1,0 +1,10 @@
+// Compost colors for bibliocraft. You may add your own colors, change existing ones, or remove colors that aren't needed.
+clipboard, #9db28d
+gold_chain, #7ca765
+gold_lantern, #90ab66
+gold_soul_lantern, #80af75
+lock_and_key, #8aac5f
+plumb_line, #799a65
+stockroom_catalog, #5f9061
+tape_measure, #a1b879
+tape_reel, #8eb670

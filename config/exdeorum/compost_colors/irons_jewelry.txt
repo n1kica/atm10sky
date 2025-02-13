@@ -1,0 +1,9 @@
+// Compost colors for irons_jewelry. You may add your own colors, change existing ones, or remove colors that aren't needed.
+garnet, #c3413e
+moonstone, #f2e8ff
+onyx, #5452b4
+peridot, #93dc62
+recipe, #fff4a5
+ruby, #ff7c8a
+sapphire, #9dd0ff
+topaz, #ffcf5e
