@@ -1,0 +1,72 @@
+{
+	id: "636C0F2A58AD8FC1"
+	loot_size: 1
+	order_index: 29
+	rewards: [
+		{
+			count: 5
+			id: "11072D1B0470171E"
+			item: {
+				count: 1
+				id: "mysticalagriculture:inferium_essence"
+			}
+			random_bonus: 5
+		}
+		{
+			count: 5
+			id: "055048D4A321572D"
+			item: {
+				count: 1
+				id: "mysticalagriculture:prosperity_shard"
+			}
+			random_bonus: 5
+		}
+		{
+			id: "703427FCFF774DD1"
+			item: {
+				count: 1
+				id: "mysticalagriculture:prosperity_seed_base"
+			}
+			random_bonus: 1
+		}
+		{
+			count: 2
+			id: "3689501F49FF57F3"
+			item: {
+				count: 1
+				id: "mysticalagriculture:inferium_seeds"
+			}
+			random_bonus: 1
+		}
+		{
+			id: "2F463E2FD6C497D2"
+			item: {
+				count: 1
+				id: "mysticalagriculture:watering_can"
+			}
+			weight: 0.5f
+		}
+		{
+			count: 3
+			id: "790B26E96552AB0D"
+			item: {
+				count: 1
+				id: "mysticalagriculture:fertilized_essence"
+			}
+			random_bonus: 2
+		}
+		{
+			id: "6051FB8B785A81D5"
+			item: {
+				count: 1
+				id: "mysticalagriculture:mystical_fertilizer"
+			}
+			random_bonus: 1
+		}
+		{ id: "16109D32E57962AC", item: { count: 1, id: "mysticalagriculture:machine_frame" } }
+		{ id: "60ED5222DEEA46FC", item: { count: 1, id: "mysticalagriculture:prudentium_essence" } }
+		{ id: "62333C1087C9344C", item: { count: 1, id: "mysticalagriculture:wand" } }
+		{ id: "24B9C90FE41BE5B5", item: { count: 1, id: "mysticalagriculture:unattuned_augment" } }
+	]
+	use_title: true
+}

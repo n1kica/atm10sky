@@ -1,0 +1,3 @@
+// Compost colors for immeng. You may add your own colors, change existing ones, or remove colors that aren't needed.
+wirecoil_me, #79476f
+wirecoil_me_dense, #5a3c46

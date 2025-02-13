@@ -1,0 +1,209 @@
+{
+	id: "0C83C7A93ED80A36"
+	loot_size: 1
+	order_index: 41
+	rewards: [
+		{
+			count: 4
+			id: "776B2747F325A188"
+			item: {
+				count: 1
+				id: "naturesaura:gold_fiber"
+			}
+			random_bonus: 4
+			weight: 2.0f
+		}
+		{
+			count: 2
+			id: "1443E4B0233E2044"
+			item: {
+				count: 1
+				id: "naturesaura:gold_leaf"
+			}
+			random_bonus: 2
+			weight: 1.5f
+		}
+		{
+			count: 4
+			id: "320CE3F2921F0E15"
+			item: {
+				count: 1
+				id: "naturesaura:gold_powder"
+			}
+			random_bonus: 4
+			weight: 1.5f
+		}
+		{
+			id: "2F71479DA449DB6F"
+			item: {
+				count: 1
+				id: "naturesaura:ancient_sapling"
+			}
+			weight: 0.75f
+		}
+		{
+			count: 2
+			id: "3710CE9F6D264DFE"
+			item: {
+				count: 1
+				id: "naturesaura:infused_stone"
+			}
+			random_bonus: 2
+			weight: 0.75f
+		}
+		{
+			count: 2
+			id: "69B9CD5C63EC4965"
+			item: {
+				count: 1
+				id: "naturesaura:aura_bloom"
+			}
+			random_bonus: 1
+			weight: 1.5f
+		}
+		{
+			count: 2
+			id: "14EC3D73E7821BC3"
+			item: {
+				count: 1
+				id: "naturesaura:aura_cactus"
+			}
+			random_bonus: 1
+			weight: 1.5f
+		}
+		{
+			count: 2
+			id: "2A9F4893351A08E7"
+			item: {
+				count: 1
+				id: "naturesaura:warped_aura_mushroom"
+			}
+			random_bonus: 1
+			weight: 1.5f
+		}
+		{
+			count: 2
+			id: "4FE487FDB118235F"
+			item: {
+				count: 1
+				id: "naturesaura:crimson_aura_mushroom"
+			}
+			random_bonus: 1
+			weight: 1.5f
+		}
+		{
+			count: 2
+			id: "7E0F6CE9B98944CD"
+			item: {
+				count: 1
+				id: "naturesaura:aura_mushroom"
+			}
+			random_bonus: 1
+			weight: 1.5f
+		}
+		{
+			count: 2
+			id: "4500F9FC9FC2B6FC"
+			item: {
+				count: 1
+				id: "naturesaura:bottle_two_the_rebottling"
+			}
+			random_bonus: 1
+			weight: 1.5f
+		}
+		{
+			count: 2
+			id: "1EBA51B8CA875967"
+			item: {
+				count: 1
+				id: "naturesaura:end_flower"
+			}
+			random_bonus: 1
+			weight: 1.5f
+		}
+		{
+			id: "11FA4B6752A79BD0"
+			item: {
+				components: {
+					"naturesaura:aura_bottle_data": {
+						aura_type: "naturesaura:overworld"
+					}
+				}
+				count: 1
+				id: "naturesaura:aura_bottle"
+			}
+			random_bonus: 1
+		}
+		{
+			id: "758CFA46B57491B2"
+			item: {
+				components: {
+					"naturesaura:aura_bottle_data": {
+						aura_type: "naturesaura:nether"
+					}
+				}
+				count: 1
+				id: "naturesaura:aura_bottle"
+			}
+			random_bonus: 1
+		}
+		{
+			id: "57F153D91873AA06"
+			item: {
+				components: {
+					"naturesaura:aura_bottle_data": {
+						aura_type: "naturesaura:end"
+					}
+				}
+				count: 1
+				id: "naturesaura:aura_bottle"
+			}
+			random_bonus: 1
+		}
+		{
+			count: 2
+			id: "5B1BB8167E05F380"
+			item: {
+				count: 1
+				id: "naturesaura:farming_stencil"
+			}
+			random_bonus: 2
+		}
+		{
+			count: 3
+			id: "385BDED6B6B1202E"
+			item: {
+				count: 1
+				id: "naturesaura:ancient_log"
+			}
+			random_bonus: 2
+		}
+		{
+			count: 2
+			id: "1DA50A430674B3AA"
+			item: {
+				count: 1
+				id: "naturesaura:ancient_stick"
+			}
+			random_bonus: 2
+		}
+		{
+			count: 2
+			id: "79F98E73E1EBC34B"
+			item: {
+				count: 1
+				id: "naturesaura:gold_brick"
+			}
+			random_bonus: 2
+			weight: 0.75f
+		}
+		{
+			id: "38B4973F5904C7D7"
+			item: {
+				count: 1
+				id: "naturesaura:ender_crate"
+			}
+			weight: 0.5f
+		}
+	]
+}

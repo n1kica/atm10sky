@@ -1,0 +1,18 @@
+// Compost colors for livingthings. You may add your own colors, change existing ones, or remove colors that aren't needed.
+ancient_helmet, #c0a29e
+banana, #ffd918
+cooked_crab, #bfb570
+cooked_elephant, #896f4b
+cooked_giraffe, #c68362
+cooked_lion, #c2afa5
+cooked_ostrich, #849366
+crab, #c9d09e
+crab_shell, #cd5f50
+elephant, #a26258
+giraffe, #805754
+lexicon, #416ea7
+lion, #ffffff
+ostrich, #909b76
+ostrich_egg, #ccd68c
+seahorse_bucket, #96b5bf
+shark_tooth, #a2bfa5
