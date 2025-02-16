@@ -7,8 +7,24 @@ enableAE2Accelerator: true
 enableDirtToGrass: true
 enableMysticalCrops: true
 hoeTakesDamage: false
-ignoreList: ['minecraft:grass_block', 'minecraft:grass', 'minecraft:short_grass',
-  'minecraft:tall_grass', 'minecraft:netherrack', 'minecraft:warped_nylium', 'minecraft:crimson_nylium']
+ignoreList:
+  [
+    "minecraft:grass_block",
+    "minecraft:grass",
+    "minecraft:short_grass",
+    "minecraft:tall_grass",
+    "minecraft:netherrack",
+    "minecraft:warped_nylium",
+    "minecraft:crimson_nylium",
+    "mysticalagriculture:allthemodium_crop",
+    "mysticalagriculture:nether_star_crop",
+    "mysticalagriculture:dragon_egg_crop",
+    "mysticalagriculture:nitro_crystal_crop",
+    "mysticalagriculture:entro_crop",
+    "mysticalagriculture:sky_steel_crop",
+    "mysticalagriculture:vibranium_crop",
+    "mysticalagriculture:unobtainium_crop",
+  ]
 randomTickMultiplier: 4
 range: 3
 requireHoe: false
@@ -17,7 +33,7 @@ requirements:
   enabled: true
   equipmentRequirement: {}
   heldItemRequirement: []
-  requiredEnchantment: ''
+  requiredEnchantment: ""
   requiredItemTakesDamage: false
 sugarcaneMultiplier: 4
 useWhitelist: false
