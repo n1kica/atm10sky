@@ -13,16 +13,8 @@
 			image: "atm:textures/questpics/allthemodium/all_allthemodium.png"
 			rotation: 0.0d
 			width: 26.666666666666668d
-			x: 10.5d
-			y: -5.0d
-		}
-		{
-			height: 1.5d
-			image: "allthemodium:item/allthemodium_upgrade_smithing_template"
-			rotation: 0.0d
-			width: 1.5d
-			x: 2.5d
-			y: 2.5d
+			x: 13.5d
+			y: -5.5d
 		}
 		{
 			height: 1.5d
@@ -45,8 +37,8 @@
 			image: "atm:textures/questpics/allthemodium/all_1.png"
 			rotation: 0.0d
 			width: 2.0d
-			x: 2.5d
-			y: -2.5d
+			x: 5.5d
+			y: 3.0d
 		}
 		{
 			height: 2.0d
@@ -69,8 +61,8 @@
 			image: "atm:textures/questpics/allthemodium/all_armor_all.png"
 			rotation: 0.0d
 			width: 1.7203125000000001d
-			x: 5.5d
-			y: 4.5d
+			x: 3.5d
+			y: 4.0d
 		}
 		{
 			height: 3.0d
@@ -78,7 +70,7 @@
 			rotation: 0.0d
 			width: 2.08d
 			x: 11.0d
-			y: 4.5d
+			y: 4.0d
 		}
 		{
 			height: 3.0d
@@ -86,7 +78,7 @@
 			rotation: 0.0d
 			width: 1.5406626506024095d
 			x: 14.0d
-			y: 4.5d
+			y: 4.0d
 		}
 		{
 			height: 0.3d
@@ -109,7 +101,7 @@
 			image: "atm:textures/questpics/allthemodium/all_title.png"
 			rotation: 0.0d
 			width: 10.804347826086957d
-			x: 4.0d
+			x: 7.0d
 			y: -7.5d
 		}
 	]
@@ -117,7 +109,7 @@
 	quest_links: [ ]
 	quests: [
 		{
-			dependencies: ["6D09511D64DDC282"]
+			dependencies: ["5E799B92358A8732"]
 			icon: {
 				components: {
 					"patchouli:book": "allthemodium:allthemodium_book"
@@ -137,13 +129,13 @@
 				type: "item"
 			}]
 			shape: "gear"
-			size: 2.0d
+			size: 1.5d
 			tasks: [{
 				id: "0AB9BED5E5144BAC"
 				item: { count: 1, id: "minecraft:netherite_ingot" }
 				type: "item"
 			}]
-			x: 0.0d
+			x: 1.5d
 			y: 0.0d
 		}
 		{
@@ -246,35 +238,14 @@
 				id: "6514595CBD4DE6C6"
 				type: "dimension"
 			}]
-			x: 8.0d
+			x: 7.5d
 			y: 3.5d
 		}
 		{
-			dependencies: ["4B2146C9527C54E7"]
-			icon: {
-				id: "minecraft:sculk_shrieker"
-			}
-			id: "111E4ACF7D570EE8"
-			rewards: [{
-				count: 64
-				id: "12998E738B4F1564"
-				item: {
-					count: 1
-					id: "minecraft:white_wool"
-				}
-				type: "item"
-			}]
-			shape: "square"
-			tasks: [{
-				id: "298EA976A7627731"
-				structure: "minecraft:ancient_city"
-				type: "structure"
-			}]
-			x: 0.0d
-			y: 2.0d
-		}
-		{
-			dependencies: ["3DDF87A1E5F5D009"]
+			dependencies: [
+				"3DDF87A1E5F5D009"
+				"4B2146C9527C54E7"
+			]
 			id: "201EE3566D4D3123"
 			rewards: [
 				{
@@ -292,35 +263,14 @@
 				}
 			]
 			shape: "octagon"
-			size: 1.4d
+			size: 1.0d
 			tasks: [{
 				id: "68FF6DFF022ECC91"
 				item: { count: 1, id: "allthemodium:allthemodium_ingot" }
 				type: "item"
 			}]
-			x: 2.8d
+			x: 3.5d
 			y: 0.0d
-		}
-		{
-			dependencies: ["111E4ACF7D570EE8"]
-			id: "71E4FD61787DE299"
-			rewards: [{
-				id: "38A51A25F4E32D5A"
-				item: {
-					count: 1
-					id: "allthemodium:allthemodium_upgrade_smithing_template"
-				}
-				type: "item"
-			}]
-			shape: "rsquare"
-			size: 1.3d
-			tasks: [{
-				id: "546E9C86F2C8382B"
-				item: { count: 1, id: "allthemodium:allthemodium_upgrade_smithing_template" }
-				type: "item"
-			}]
-			x: 0.0d
-			y: 3.9000000000000004d
 		}
 		{
 			dependencies: ["0CC0632E8276C787"]
@@ -344,10 +294,7 @@
 			y: -1.0d
 		}
 		{
-			dependencies: [
-				"201EE3566D4D3123"
-				"71E4FD61787DE299"
-			]
+			dependencies: ["201EE3566D4D3123"]
 			hide_dependency_lines: true
 			id: "6ECDD26CCCBC07C3"
 			rewards: [{
@@ -363,14 +310,11 @@
 				item: { components: { "ftbfiltersystem:filter": "or(item(allthemodium:allthemodium_helmet)item(allthemodium:allthemodium_chestplate)item(allthemodium:allthemodium_leggings)item(allthemodium:allthemodium_boots))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: 5.5d
+			x: 3.5d
 			y: 1.5d
 		}
 		{
-			dependencies: [
-				"201EE3566D4D3123"
-				"71E4FD61787DE299"
-			]
+			dependencies: ["201EE3566D4D3123"]
 			hide_dependency_lines: true
 			id: "162D2286A69D6E07"
 			rewards: [{
@@ -386,14 +330,11 @@
 				item: { components: { "ftbfiltersystem:filter": "or(item(allthearcanistgear:allthemodium_hat)item(allthearcanistgear:allthemodium_robes)item(allthearcanistgear:allthemodium_leggings)item(allthearcanistgear:allthemodium_boots))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: 5.0d
+			x: 3.0d
 			y: 2.0d
 		}
 		{
-			dependencies: [
-				"201EE3566D4D3123"
-				"71E4FD61787DE299"
-			]
+			dependencies: ["201EE3566D4D3123"]
 			hide_dependency_lines: true
 			id: "272CF280BAE6870E"
 			rewards: [{
@@ -409,14 +350,11 @@
 				item: { components: { "ftbfiltersystem:filter": "or(item(allthewizardgear:allthemodium_mage_helmet)item(allthewizardgear:allthemodium_mage_chestplate)item(allthewizardgear:allthemodium_mage_leggings)item(allthewizardgear:allthemodium_mage_boots))" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: 6.0d
+			x: 4.0d
 			y: 2.0d
 		}
 		{
-			dependencies: [
-				"201EE3566D4D3123"
-				"71E4FD61787DE299"
-			]
+			dependencies: ["201EE3566D4D3123"]
 			hide_dependency_lines: true
 			id: "6E0624750DF8CD18"
 			rewards: [{
@@ -436,10 +374,7 @@
 			y: -2.5d
 		}
 		{
-			dependencies: [
-				"201EE3566D4D3123"
-				"71E4FD61787DE299"
-			]
+			dependencies: ["201EE3566D4D3123"]
 			hide_dependency_lines: true
 			hide_text_until_complete: false
 			id: "1F6C8117F3CED939"
@@ -454,10 +389,7 @@
 			y: -2.0d
 		}
 		{
-			dependencies: [
-				"201EE3566D4D3123"
-				"71E4FD61787DE299"
-			]
+			dependencies: ["201EE3566D4D3123"]
 			hide_dependency_lines: true
 			id: "44D5EDB8711EC7A0"
 			rewards: [{
@@ -523,10 +455,7 @@
 			y: 2.0d
 		}
 		{
-			dependencies: [
-				"201EE3566D4D3123"
-				"71E4FD61787DE299"
-			]
+			dependencies: ["201EE3566D4D3123"]
 			hide_dependency_lines: true
 			id: "5A26738AC904DC39"
 			tasks: [{
@@ -853,8 +782,8 @@
 				id: "32447C5882610D6C"
 				type: "dimension"
 			}]
-			x: 8.0d
-			y: 2.0d
+			x: 7.5d
+			y: 1.5d
 		}
 		{
 			dependencies: ["0CC0632E8276C787"]
@@ -1406,7 +1335,7 @@
 					type: "checkmark"
 				}
 			]
-			x: 0.0d
+			x: 1.5d
 			y: -1.5d
 		}
 		{

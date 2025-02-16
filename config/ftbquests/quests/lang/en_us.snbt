@@ -1669,11 +1669,6 @@
 	quest.1112E4E2CCEB2467.quest_desc: ["So now, you should have 5 machines ready to go to process your ores. Are you ready to make it even more complicated?\\n\\nYour factory should be: Chemical Injection Chamber > Purifying Chamber > Crusher > Enrichment Chamber > Furnace/Smelter.\\n\\nEasy so far, right?\\n\\nWell buckle up. It's about to get wild."]
 	quest.1112E4E2CCEB2467.quest_subtitle: "Tier 3 Ore Factory"
 	quest.111649D7E16D869F.quest_desc: ["The &9Caster's Wand&r only accepts a single spell, and is inscribed using the Scribe's Table. \\n\\nWand spells always start with Projectile > Accelerate, and MUST be inscribed with a spell that does not have another method (like touch, self, etc). \\n\\nThis allows you to cast spells beyond the 10 spell cap. If you want to use Break, just inscribe the wand with Break by itself."]
-	quest.111E4ACF7D570EE8.quest_desc: [
-		"Only the hardest Structure in &2&lVanilla Minecraft&r. So of course that's where you'll have to look for &6Allthemodium&r!\\n\\nYou can find the Ore in the walls of Caves around the Ancient Cities, it's Glowing so it'll be easy to spot just very rare!\\n"
-		"{image:atm:textures/questpics/allthemodium/all_city.png width:200 height:100 align:center}"
-	]
-	quest.111E4ACF7D570EE8.title: "Ancient City"
 	quest.111F2EE85FB0A455.quest_desc: ["Using the &cFiery Blood&r from the Hydra, you can make a couple of tools.\\n\\nThe Fiery Sword comes with Fire Aspect II.\\n\\nThe Fiery Pickaxe comes with auto-smelt."]
 	quest.111F2EE85FB0A455.title: "&cFiery Tools"
 	quest.1124A964E1B8E0EE.quest_desc: ["Vial of Unnaming does as it suggests. When you have an affixed item with an awkwardly long name, you can combine it with the vial in a smithing table to get rid of most of the name. (Only the material and weapon type as with the rarity color will stay)."]
@@ -3117,7 +3112,7 @@
 	quest.200ECDC70E97D254.quest_desc: ["Fuel Canister is a tank that can fill containers with the fluid it contains.\\n\\nThe Fuel Canister has three fill modes:\\n\\n - None\\n - Any\\n - Just Dire Things"]
 	quest.201EE3566D4D3123.quest_desc: [
 		"To mine &6Allthemodium&r you'll need a Pickaxe that is &5Netherite&r Tier or higher! \\n\\nOnce you finally get the Ore (first I recommend processing it either with Fortune, Occultism, or Mekanism to get more) then you can get a few choices of what to do with it. \\n\\nI recommend making 2 Teleport Pads with the &6Nuggets&r! You can use those to get to the &7&lMining Dimension&r to find more &6Allthemodium&r or &b&lThe Other&r to find other adventures. \\n\\nAfter that I recommend upgrading your Pickaxe so you can Mine &3Vibranium&r. The rest is all up to you!"
-		"{image:atm:textures/questpics/allthemodium/all_1.png width:100 height:100 align:center}"
+		"{image:allthemodium:item/allthemodium_ingot width:75 height:75 align:center}"
 	]
 	quest.201EE3566D4D3123.title: "&6Allthemodium Ingot"
 	quest.202B1F54D3F06DAB.quest_desc: ["This is the Tier 6 Essence, made by combining 4 Supremium together with an Infusion Crystal."]
@@ -10731,7 +10726,7 @@
 	quest.6B0D84B730C6C76C.quest_desc: ["The 16 Colors &2&lMinecraft&r gives you isn't enough? \\n\\nWell I guess you could have 18 more! \\n\\n&l&cDy&6en&ea&ami&bcs&r gives us 18 more Dyes all which can be used for the exact same Items and Blocks &2&lMinecraft's&r Dyes do! \\n\\nYou want a &6Peach&r Candle? You can get one! You want a &dBumblegum&r Shulker? Why not! You want a &eFluorscent&r Bed? Of course!"]
 	quest.6B0D84B730C6C76C.title: "&l&cDy&6en&ea&ami&bcs&r"
 	quest.6B1C06C753C10E44.quest_desc: ["The &3Logistics Configurator&r can be used to configure Logistic Frames and Transfer Gadgets."]
-	quest.6B2027DA7AA6FF34.quest_desc: ["&9Powah&r is a tech mod that's all about generating, storing, and transmitting &dPower&r. Ranging from basic FE generation to &aReactors&r that produce &b250k FE/t&r, Powah has you covered!\\n\\nTo get started, go out and mine some &aUraninite&r!"]
+	quest.6B2027DA7AA6FF34.quest_desc: ["&9Powah&r is a tech mod that's all about generating, storing, and transmitting &dPower&r. Ranging from basic FE generation to &aReactors&r that produce &b250k FE/t&r, Powah has you covered!"]
 	quest.6B2027DA7AA6FF34.title: "&aWelcome to &9Powah&r!!!"
 	quest.6B2BD6F939136F50.quest_desc: ["Turntable is pretty simple. The Top face with the &7Grey&r square will be the moving part. \\n\\nThe other faces are the &4Redstone Ports&r, where you will give a &4Redstone Signal&r to activate it. \\n\\nWhen activated it will rotate whatever Block is attached to the Top. \\n\\nYou might need to use your &6Engineer's Hammer&r on it to change how it rotates!"]
 	quest.6B40AF49F505A551.quest_desc: ["Ever want to be just like Batman? Living in the shadows bringing justice? Then the &9Midnight Robe&r is perfect for you! {It's also stylish!) When worn in Low Light Levels you will become Invisible and be given Speed. This can be upgraded for the Light Levels to be higher or to give more Speed. \\n \\nThe Second Ability gives remneants of most Stealth Games. When you hit a Mob while Invisible you'll deal much more damage but lose your stealth and speed until you leave the Circle made around the Mob."]
@@ -11450,11 +11445,6 @@
 		"{image:atm:textures/questpics/undergarden/undergarden_gwib.png width:100 height:100 align:center}"
 	]
 	quest.71E1454990DEC451.title: "&bGwib&r"
-	quest.71E4FD61787DE299.quest_desc: [
-		"Another Item you can only find in Ancient Cities is the &6Allthemodium Smithing Template&r.\\n\\nTo get it you'll need to Brush suspicious Clay.\\n\\nYou can find it in the floors of the Ancient City.\\n"
-		"{image:atm:textures/questpics/allthemodium/all_clay.png width:200 height:100 align:center}"
-	]
-	quest.71E4FD61787DE299.title: "&6Allthemodium Smithing Template"
 	quest.71FDF8CD953E46FC.quest_desc: ["HAHAHA did I scare you with the Creative item in the quests?\\n\\nDon't worry you won't need the item to finish this chapter, I just wanted to scare you\\n\\nI can have fun sometimes..."]
 	quest.72082D70F5D22632.quest_desc: ["Now this is the future! We are making progress, and stepping towards the Unknown!"]
 	quest.72082D70F5D22632.quest_subtitle: "Crystal Mainframe!"

@@ -329,6 +329,9 @@
 	quest_links: [ ]
 	quests: [
 		{
+			icon: {
+				id: "powah:book"
+			}
 			icon_scale: 1.3d
 			id: "6B2027DA7AA6FF34"
 			rewards: [
@@ -352,8 +355,9 @@
 			shape: "gear"
 			size: 2.0d
 			tasks: [{
+				count: 16L
 				id: "3C45AF8C3DC5A45E"
-				item: { count: 1, id: "powah:uraninite_raw" }
+				item: { count: 1, id: "powah:dielectric_paste" }
 				type: "item"
 			}]
 			x: 0.0d
@@ -379,19 +383,11 @@
 				}
 			]
 			shape: "rsquare"
-			tasks: [
-				{
-					count: 16L
-					id: "21FC6D010E5D5360"
-					item: { count: 1, id: "powah:dielectric_paste" }
-					type: "item"
-				}
-				{
-					id: "499AF83C86984D26"
-					item: { count: 1, id: "powah:dielectric_casing" }
-					type: "item"
-				}
-			]
+			tasks: [{
+				id: "499AF83C86984D26"
+				item: { count: 1, id: "powah:dielectric_casing" }
+				type: "item"
+			}]
 			x: 0.0d
 			y: 2.0d
 		}

@@ -506,6 +506,9 @@
 		{
 			dependencies: ["0F3D51FFD2FE8DCB"]
 			hide_until_deps_visible: false
+			icon: {
+				id: "minecraft:ender_eye"
+			}
 			id: "61C49BC2B384FB80"
 			rewards: [
 				{
@@ -534,10 +537,9 @@
 					type: "item"
 				}
 				{
-					advancement: "minecraft:story/follow_ender_eye"
-					criterion: ""
-					id: "2014E320BFF51D62"
-					type: "advancement"
+					id: "2EB7FC2C3BBC9A29"
+					item: { count: 1, id: "exdeorum:end_cake" }
+					type: "item"
 				}
 			]
 			x: 13.5d

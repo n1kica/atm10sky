@@ -8278,8 +8278,6 @@
 	quest.6B04FC81351CD1AB.title: "&5Wireless Access"
 	quest.6B2027DA7AA6FF34.quest_desc: [
 		"&9Powah&r is a tech mod that's all about generating, storing, and transmitting &dPower&r. Ranging from basic FE generation to &aReactors&r that produce &b250k FE/t&r, Powah has you covered!"
-		""
-		"To get started, go out and mine some &aUraninite&r!"
 	]
 	quest.6B2027DA7AA6FF34.title: "&aWelcome to&r &9Powah&r!!!"
 	quest.6B511C8B572E8940.quest_desc: [
