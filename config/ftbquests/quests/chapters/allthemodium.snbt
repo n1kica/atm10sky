@@ -131,7 +131,7 @@
 			shape: "gear"
 			size: 1.5d
 			tasks: [{
-				id: "0AB9BED5E5144BAC"
+				id: "22BFAFD44B56175D"
 				item: { count: 1, id: "minecraft:netherite_ingot" }
 				type: "item"
 			}]
