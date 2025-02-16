@@ -21,8 +21,8 @@
 			image: "allthemodium:item/allthemodium_upgrade_smithing_template"
 			rotation: 0.0d
 			width: 1.5d
-			x: 3.5d
-			y: -2.5d
+			x: 2.5d
+			y: 2.5d
 		}
 		{
 			height: 1.5d
@@ -45,8 +45,8 @@
 			image: "atm:textures/questpics/allthemodium/all_1.png"
 			rotation: 0.0d
 			width: 2.0d
-			x: 3.5d
-			y: 3.0d
+			x: 2.5d
+			y: -2.5d
 		}
 		{
 			height: 2.0d
@@ -270,11 +270,11 @@
 				structure: "minecraft:ancient_city"
 				type: "structure"
 			}]
-			x: 2.0d
-			y: 0.0d
+			x: 0.0d
+			y: 2.0d
 		}
 		{
-			dependencies: ["111E4ACF7D570EE8"]
+			dependencies: ["3DDF87A1E5F5D009"]
 			id: "201EE3566D4D3123"
 			rewards: [
 				{
@@ -298,8 +298,8 @@
 				item: { count: 1, id: "allthemodium:allthemodium_ingot" }
 				type: "item"
 			}]
-			x: 3.5d
-			y: 1.0d
+			x: 2.8d
+			y: 0.0d
 		}
 		{
 			dependencies: ["111E4ACF7D570EE8"]
@@ -319,8 +319,8 @@
 				item: { count: 1, id: "allthemodium:allthemodium_upgrade_smithing_template" }
 				type: "item"
 			}]
-			x: 3.5d
-			y: -1.0d
+			x: 0.0d
+			y: 3.9000000000000004d
 		}
 		{
 			dependencies: ["0CC0632E8276C787"]
