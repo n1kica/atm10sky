@@ -1067,11 +1067,18 @@
 				type: "item"
 			}]
 			shape: "square"
-			tasks: [{
-				id: "6C974DF242CFDB8E"
-				structure: "allthemodium:ancient_pyramid"
-				type: "structure"
-			}]
+			tasks: [
+				{
+					id: "5477B972BD3CAE15"
+					item: { count: 1, id: "explorerscompass:explorerscompass" }
+					type: "item"
+				}
+				{
+					id: "6C974DF242CFDB8E"
+					structure: "allthemodium:ancient_pyramid"
+					type: "structure"
+				}
+			]
 			x: 14.0d
 			y: 0.0d
 		}
